@@ -1,0 +1,12 @@
+.combatant-adder{
+    float: left;
+    height: fit-content;
+    width: fit-content;
+    padding: 1em;
+    margin: 5em;
+    border: 1px solid black;
+}
+
+#rolled-init{
+    width: 2.5em;
+}
